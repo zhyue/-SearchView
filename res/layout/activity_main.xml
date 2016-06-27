@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+<!--     <com.example.searchviewdemomy.widge.SearchView
+        android:id="@+id/main_search_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </com.example.searchviewdemomy.widge.SearchView> -->
+
+<com.example.searchviewdemomy.SearchView 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    />
+</LinearLayout>
